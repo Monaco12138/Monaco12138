@@ -3,8 +3,6 @@
 <!--
 **Monaco12138/Monaco12138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying on Sun yat-san university
 - 🌱 I’m currently learning ...(really I don't learn any thing just now!)
 - 👯 I’m looking to collaborate on ...
