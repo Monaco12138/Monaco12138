@@ -4,7 +4,7 @@
 <img src="https://github.com/Monaco12138/Monaco12138/blob/main/test.png" width="50%">
 
 - 🔭 I’m currently studying on Sun yat-san university
-- 🌱 I’m currently learning ...(really I don't learn any thing just now!)
+- 🌱 I’m currently learning ...
 - 📫 How to reach me: 1658966374@qq.com
 - 😄 Pronouns: Brawl stars!
 - ⚡ Fun fact: tennis ,🎾
