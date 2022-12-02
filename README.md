@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying on Sun yat-san university
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: 1658966374@qq.com
+- 📫 How to reach me: chaibli@mail2.sysu.edu.cn
 - 😄 Pronouns: Brawl stars!
 - ⚡ Fun fact: tennis ,🎾
 
