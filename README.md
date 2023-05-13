@@ -3,11 +3,11 @@
 
 <img src="https://github.com/Monaco12138/Monaco12138/blob/main/test.png" width="50%">
 
-- 🔭 I’m currently studying on Sun yat-san university
-- 🌱 I’m currently learning Video streaming
+- 🔭 I’m currently studying on Sun Yat-San University
+- 🌱 I’m currently learning Video Streaming
 - 📫 How to reach me: chaibli@mail2.sysu.edu.cn
 - 😄 Pronouns: Brawl stars!
-- ⚡ Fun fact: tennis ,🎾
+- ⚡ Fun fact: tennis 🎾
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Monaco12138)
