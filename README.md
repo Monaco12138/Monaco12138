@@ -6,7 +6,6 @@
 - 🔭 I’m currently studying on Sun Yat-San University
 - 🌱 I’m currently learning Video Streaming
 - 📫 How to reach me: chaibli@mail2.sysu.edu.cn
-- 😄 Pronouns: Brawl stars!
 - ⚡ Fun fact: tennis 🎾
 
 
